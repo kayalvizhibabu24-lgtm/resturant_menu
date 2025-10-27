@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: space-around;
+    background-color:pink;
+
+}
+.img{
+    margin-top: 80px;
+    border: 2px solid black;
+    padding: 30px;
+    background-color: bisque;
+}
+.img:hover{
+    transform: scale(1.05);
+}
